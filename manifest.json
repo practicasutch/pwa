@@ -1,0 +1,94 @@
+{
+    "name": "PWA",
+    "short_name": "PWA",
+    "description": "Primera PWA de IDGS101N",
+    "background_color": "#FFF",
+    "theme_color": "#FB314E",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./index.html?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-MX",
+    "icons": [
+        {
+            "src": "./images/chihuahua1024.jpg",
+            "sizes": "1024x1024",
+            "type": "images/jpg"
+        },
+        {
+            "src": "./images/chihuahua512.jpg",
+            "sizes": "512x512",
+            "type": "images/jpg"
+        },
+        {
+            "src": "./images/chihuahua384.jpg",
+            "sizes": "384x384",
+            "type": "images/jpg"
+        },
+        {
+            "src": "./images/chihuahua256.jpg",
+            "sizes": "256x255",
+            "type": "images/jpg"
+        },
+        {
+            "src": "./images/chihuahua192.jpg",
+            "sizes": "192x192",
+            "type": "images/jpg"
+        },
+        {
+            "src": "./images/chihuahua128.jpg",
+            "sizes": "128x128",
+            "type": "images/jpg"
+        },
+        {
+            "src": "./images/chihuahua96.jpg",
+            "sizes": "96x96",
+            "type": "images/jpg"
+        },
+        {
+            "src": "./images/chihuahua64.jpg",
+            "sizes": "64x64",
+            "type": "images/jpg"
+        },
+        {
+            "src": "./images/chihuahua32.jpg",
+            "sizes": "32x32",
+            "type": "images/jpg"
+        },
+        {
+            "src": "./images/chihuahua16.jpg",
+            "sizes": "16x16",
+            "type": "images/jpg"
+        },
+        {
+            "src": "./images/chihuahua.jpg",
+            "sizes": "1024x1022",
+            "type": "images/jpg"
+        },
+        {
+            "src": "./images/about_bg.jpg",
+            "sizes": "1920x836",
+            "type": "images/jpg"
+        },
+        {
+            "src": "./images/about.png",
+            "sizes": "853x748",
+            "type": "images/png"
+        },
+        {
+            "src": "./images/banner_img.png",
+            "sizes": "1013x867",
+            "type": "images/png"
+        },
+        {
+            "src": "./images/top_icon.png",
+            "sizes": "137x42",
+            "type": "images/png"
+        },
+        {
+            "src": "./images/loading.gif",
+            "sizes": "498x498",
+            "type": "images/png"
+        }
+    ]
+}
